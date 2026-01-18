@@ -1,1 +1,1 @@
-# qa-automation-framework
+# playwright-qa-automation
